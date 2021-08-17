@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/mustan/.gradle/caches/transforms-3/4b23eae47bfb53d1c4d9e7e13b90612e/transformed/appcompat-v7-25.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

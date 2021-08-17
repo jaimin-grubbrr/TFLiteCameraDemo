@@ -1,0 +1,37 @@
+com/example/android/tflitecamerademo/ImageClassifier.java
+ com.example.android.tflitecamerademo.ImageClassifier
+ com.example.android.tflitecamerademo.ImageClassifier$1
+com/example/android/tflitecamerademo/detector/env/Size.java
+ com.example.android.tflitecamerademo.detector.env.Size
+com/example/android/tflitecamerademo/ImageClassifierFloatInception.java
+ com.example.android.tflitecamerademo.ImageClassifierFloatInception
+com/example/android/tflitecamerademo/detector/env/ImageUtils.java
+ com.example.android.tflitecamerademo.detector.env.ImageUtils
+com/example/android/tflitecamerademo/detector/env/Logger.java
+ com.example.android.tflitecamerademo.detector.env.Logger
+com/example/android/tflitecamerademo/BuildConfig.java
+ com.example.android.tflitecamerademo.BuildConfig
+com/example/android/tflitecamerademo/ImageClassifierQuantizedMobileNet.java
+ com.example.android.tflitecamerademo.ImageClassifierQuantizedMobileNet
+com/example/android/tflitecamerademo/ImageClassifierFloatMobileNet.java
+ com.example.android.tflitecamerademo.ImageClassifierFloatMobileNet
+com/example/android/tflitecamerademo/detector/env/BorderedText.java
+ com.example.android.tflitecamerademo.detector.env.BorderedText
+com/example/android/tflitecamerademo/CameraActivity.java
+ com.example.android.tflitecamerademo.CameraActivity
+com/example/android/tflitecamerademo/AutoFitTextureView.java
+ com.example.android.tflitecamerademo.AutoFitTextureView
+com/example/android/tflitecamerademo/Camera2BasicFragment.java
+ com.example.android.tflitecamerademo.Camera2BasicFragment
+ com.example.android.tflitecamerademo.Camera2BasicFragment$1
+ com.example.android.tflitecamerademo.Camera2BasicFragment$2
+ com.example.android.tflitecamerademo.Camera2BasicFragment$3
+ com.example.android.tflitecamerademo.Camera2BasicFragment$4
+ com.example.android.tflitecamerademo.Camera2BasicFragment$5
+ com.example.android.tflitecamerademo.Camera2BasicFragment$6
+ com.example.android.tflitecamerademo.Camera2BasicFragment$7
+ com.example.android.tflitecamerademo.Camera2BasicFragment$8
+ com.example.android.tflitecamerademo.Camera2BasicFragment$9
+ com.example.android.tflitecamerademo.Camera2BasicFragment$CompareSizesByArea
+ com.example.android.tflitecamerademo.Camera2BasicFragment$ErrorDialog
+ com.example.android.tflitecamerademo.Camera2BasicFragment$ErrorDialog$1

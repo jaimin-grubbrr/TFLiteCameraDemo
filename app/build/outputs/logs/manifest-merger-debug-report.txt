@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+MERGED from [com.android.support:design:25.2.0] /home/mustan/.gradle/caches/transforms-3/ddc2275804b78021ba93c72c179884a2/transformed/design-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/4b23eae47bfb53d1c4d9e7e13b90612e/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mustan/.gradle/caches/transforms-3/2501842755db408bf9a21e1bbb76d198/transformed/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/mustan/.gradle/caches/transforms-3/00fb87d2ccc558b8c1388c0c65059371/transformed/support-v13-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/d93b1c6987c3102c8552ef78902b3817/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/e07ce0839982904b4d33f27522d954a3/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/f1bd899689179b1f5a6cc063722fd58f/transformed/recyclerview-v7-25.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /home/mustan/.gradle/caches/transforms-3/d5447a2e441135969aa6011e2e74a96b/transformed/transition-25.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/mustan/.gradle/caches/transforms-3/2f6060c8638506c5cf2c68da99d669c9/transformed/support-v4-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /home/mustan/.gradle/caches/transforms-3/fdef3d7a3482cdcd462d05bbc5eb56e3/transformed/support-fragment-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/6d95dedbc5e114a695944100285988d5/transformed/support-media-compat-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/mustan/.gradle/caches/transforms-3/ebdd19c3d58036970b1d4a20bb10b9f6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/mustan/.gradle/caches/transforms-3/e0a0976a807798b80c1ec4aafd8e4bea/transformed/support-core-ui-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/f3858e0adf393c4c572001b41c0db58d/transformed/support-compat-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/2c7de4ea6d895c67a4c5df1db1511263/transformed/tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/d8a5ae332b5bd4e9c4f63ba057808a9f/transformed/tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:1-43:12
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support:design:25.2.0] /home/mustan/.gradle/caches/transforms-3/ddc2275804b78021ba93c72c179884a2/transformed/design-25.2.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/mustan/.gradle/caches/transforms-3/ddc2275804b78021ba93c72c179884a2/transformed/design-25.2.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/4b23eae47bfb53d1c4d9e7e13b90612e/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/4b23eae47bfb53d1c4d9e7e13b90612e/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mustan/.gradle/caches/transforms-3/2501842755db408bf9a21e1bbb76d198/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mustan/.gradle/caches/transforms-3/2501842755db408bf9a21e1bbb76d198/transformed/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /home/mustan/.gradle/caches/transforms-3/00fb87d2ccc558b8c1388c0c65059371/transformed/support-v13-25.2.0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/mustan/.gradle/caches/transforms-3/00fb87d2ccc558b8c1388c0c65059371/transformed/support-v13-25.2.0/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/d93b1c6987c3102c8552ef78902b3817/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/d93b1c6987c3102c8552ef78902b3817/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/e07ce0839982904b4d33f27522d954a3/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/e07ce0839982904b4d33f27522d954a3/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/f1bd899689179b1f5a6cc063722fd58f/transformed/recyclerview-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/f1bd899689179b1f5a6cc063722fd58f/transformed/recyclerview-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/mustan/.gradle/caches/transforms-3/d5447a2e441135969aa6011e2e74a96b/transformed/transition-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/mustan/.gradle/caches/transforms-3/d5447a2e441135969aa6011e2e74a96b/transformed/transition-25.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/mustan/.gradle/caches/transforms-3/2f6060c8638506c5cf2c68da99d669c9/transformed/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/mustan/.gradle/caches/transforms-3/2f6060c8638506c5cf2c68da99d669c9/transformed/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/mustan/.gradle/caches/transforms-3/fdef3d7a3482cdcd462d05bbc5eb56e3/transformed/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /home/mustan/.gradle/caches/transforms-3/fdef3d7a3482cdcd462d05bbc5eb56e3/transformed/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/6d95dedbc5e114a695944100285988d5/transformed/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/6d95dedbc5e114a695944100285988d5/transformed/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/mustan/.gradle/caches/transforms-3/ebdd19c3d58036970b1d4a20bb10b9f6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/mustan/.gradle/caches/transforms-3/ebdd19c3d58036970b1d4a20bb10b9f6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/mustan/.gradle/caches/transforms-3/e0a0976a807798b80c1ec4aafd8e4bea/transformed/support-core-ui-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/mustan/.gradle/caches/transforms-3/e0a0976a807798b80c1ec4aafd8e4bea/transformed/support-core-ui-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/f3858e0adf393c4c572001b41c0db58d/transformed/support-compat-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/f3858e0adf393c4c572001b41c0db58d/transformed/support-compat-25.2.0/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/2c7de4ea6d895c67a4c5df1db1511263/transformed/tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/2c7de4ea6d895c67a4c5df1db1511263/transformed/tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/d8a5ae332b5bd4e9c4f63ba057808a9f/transformed/tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/d8a5ae332b5bd4e9c4f63ba057808a9f/transformed/tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:7:5-8:41
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/mustan/.gradle/caches/transforms-3/ddc2275804b78021ba93c72c179884a2/transformed/design-25.2.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+		MERGED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:15-41
+		MERGED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support:design:25.2.0] /home/mustan/.gradle/caches/transforms-3/ddc2275804b78021ba93c72c179884a2/transformed/design-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/mustan/.gradle/caches/transforms-3/ddc2275804b78021ba93c72c179884a2/transformed/design-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/4b23eae47bfb53d1c4d9e7e13b90612e/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/mustan/.gradle/caches/transforms-3/4b23eae47bfb53d1c4d9e7e13b90612e/transformed/appcompat-v7-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mustan/.gradle/caches/transforms-3/2501842755db408bf9a21e1bbb76d198/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mustan/.gradle/caches/transforms-3/2501842755db408bf9a21e1bbb76d198/transformed/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/mustan/.gradle/caches/transforms-3/00fb87d2ccc558b8c1388c0c65059371/transformed/support-v13-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/mustan/.gradle/caches/transforms-3/00fb87d2ccc558b8c1388c0c65059371/transformed/support-v13-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/d93b1c6987c3102c8552ef78902b3817/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/d93b1c6987c3102c8552ef78902b3817/transformed/animated-vector-drawable-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/e07ce0839982904b4d33f27522d954a3/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/mustan/.gradle/caches/transforms-3/e07ce0839982904b4d33f27522d954a3/transformed/support-vector-drawable-25.2.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/mustan/.gradle/caches/transforms-3/d5447a2e441135969aa6011e2e74a96b/transformed/transition-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/mustan/.gradle/caches/transforms-3/d5447a2e441135969aa6011e2e74a96b/transformed/transition-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/mustan/.gradle/caches/transforms-3/2f6060c8638506c5cf2c68da99d669c9/transformed/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/mustan/.gradle/caches/transforms-3/2f6060c8638506c5cf2c68da99d669c9/transformed/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/mustan/.gradle/caches/transforms-3/fdef3d7a3482cdcd462d05bbc5eb56e3/transformed/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/mustan/.gradle/caches/transforms-3/fdef3d7a3482cdcd462d05bbc5eb56e3/transformed/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/6d95dedbc5e114a695944100285988d5/transformed/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/6d95dedbc5e114a695944100285988d5/transformed/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/mustan/.gradle/caches/transforms-3/ebdd19c3d58036970b1d4a20bb10b9f6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/mustan/.gradle/caches/transforms-3/ebdd19c3d58036970b1d4a20bb10b9f6/transformed/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/mustan/.gradle/caches/transforms-3/e0a0976a807798b80c1ec4aafd8e4bea/transformed/support-core-ui-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/mustan/.gradle/caches/transforms-3/e0a0976a807798b80c1ec4aafd8e4bea/transformed/support-core-ui-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/f3858e0adf393c4c572001b41c0db58d/transformed/support-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/mustan/.gradle/caches/transforms-3/f3858e0adf393c4c572001b41c0db58d/transformed/support-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/2c7de4ea6d895c67a4c5df1db1511263/transformed/tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/2c7de4ea6d895c67a4c5df1db1511263/transformed/tensorflow-lite-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/d8a5ae332b5bd4e9c4f63ba057808a9f/transformed/tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:0.0.0-nightly-SNAPSHOT] /home/mustan/.gradle/caches/transforms-3/d8a5ae332b5bd4e9c4f63ba057808a9f/transformed/tensorflow-lite-gpu-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml:10:5-20
+	android:label
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:33:9-40:20
+	android:screenOrientation
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:34:19-55
+	android:label
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:35:19-51
+	android:name
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:33:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/mustan/Jaimin/Demos/TFLiteCameraDemo/app/src/main/AndroidManifest.xml:38:27-74
